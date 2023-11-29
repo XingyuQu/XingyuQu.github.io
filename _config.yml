@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Xingyu Qu"
   avatar           : "../images/Icon.png"
-  bio              : "Your biography for the left-hand sidebar"
+  bio              : # "Your biography for the left-hand sidebar"
   location         : "Abu Dhabi, United Arab Emirates"
   employer         :
   pubmed           : 
