@@ -8,4 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a second year master's student at [MBZUAI](https://mbzuai.ac.ae/), supervised by Dr. [Samuel Horvath](https://sites.google.com/view/samuelhorvath).
+I'm a second-year master's student at [MBZUAI](https://mbzuai.ac.ae/), supervised by Dr. [Samuel Horvath](https://sites.google.com/view/samuelhorvath).
