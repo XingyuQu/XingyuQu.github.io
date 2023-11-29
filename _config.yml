@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Xingyu Qu"
-  avatar           : "profile.png"
+  avatar           : "../images/Icon.png"
   bio              : "Your biography for the left-hand sidebar"
   location         : "United Arab Emirates"
   employer         :
